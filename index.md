@@ -1,6 +1,4 @@
 ## Welcome to GitHub Pages
-# Neural Networks
-https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 You can use the [editor on GitHub](https://github.com/hkanjohansson/my-first-github-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# Neural Networks
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
